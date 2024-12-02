@@ -6,6 +6,13 @@
 <h1 align="center">Hi 👋, I'm Tal kehila</h1>
 <h3 align="center">A passionate DevOps engineer and Fullstack Developer</h3>
 
+
+### Contact Me:
+- 📫 Email: **tal.kehila10@gmail.com**
+- 🔗 LinkedIn: **www.linkedin.com/in/tal-kehila/**
+
+
+### Skills & Experience:
 * 💻 Full Stack Developer with expertise in C#, ASP.NET, Python, JavaScript, and TypeScript
 * 🛠 DevOps Engineer skilled in Azure Cloud Services, AWS, Docker, Kubernetes, and CI/CD pipelines
 * 📊 Database proficiency in SQL, NoSQL, and MongoDB
@@ -19,10 +26,6 @@
 * 🔌 Implemented Dapr and RabbitMQ for service communication
 * 🤖 Integrated AI summarization capabilities
 * 🐳 Containerized applications using Docker
-
-- 📫 How to reach me **tal.kehila10@gmail.com**
-<p align="left">
-           • linkedprofile: https://www.linkedin.com/in/tal-kehila-581166232/
 </p>
 
 <p align="right">
