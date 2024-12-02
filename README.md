@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FwZHpza21kcWRvNWpxeDkycHZ2bml2cXF3MGhiaTBqNTljcWJ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.webp" alt="coding" width="250" height="200"/>
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRzNnlpcDlrMXF1cmcydDYwbGhndW1iZmVhZ21hNThuOXIzcDJrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="coding" width="250" height="200"/>
@@ -7,11 +6,23 @@
 <h1 align="center">Hi 👋, I'm Tal kehila</h1>
 <h3 align="center">A passionate DevOps engineer and Fullstack Developer</h3>
 
-- 📫 How to reach me **tal.kehila10@gmail.com**
+* 💻 Full Stack Developer with expertise in C#, ASP.NET, Python, JavaScript, and TypeScript
+* 🛠 DevOps Engineer skilled in Azure Cloud Services, AWS, Docker, Kubernetes, and CI/CD pipelines
+* 📊 Database proficiency in SQL, NoSQL, and MongoDB
+* 🏗 Strong foundation in Software Architecture, implementing Microservices and Design Patterns
+* 🔄 Experience with Git workflow and GitHub Actions
+* 🌐 Frontend development using React and Angular
 
-<h3 align="left">Connect with me:</h3>
+
+### Recent Projects:
+* 📰 Developed News Personal Fetcher using C# .NET Core microservices
+* 🔌 Implemented Dapr and RabbitMQ for service communication
+* 🤖 Integrated AI summarization capabilities
+* 🐳 Containerized applications using Docker
+
+- 📫 How to reach me **tal.kehila10@gmail.com**
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tal-kehila-581166232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tal-kehila-581166232/" height="30" width="40" /></a>
+           • linkedprofile: https://www.linkedin.com/in/tal-kehila-581166232/
 </p>
 
 <p align="right">
