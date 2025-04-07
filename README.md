@@ -62,15 +62,15 @@
   <tr>
     <td valign="top" width="70%">
       <h4>
-        <a href="https://github.com/Koren-Ben-Ezra/Smart-Vacuum-Cleaning-Sim">Vacuum Cleaning Simulator &amp; Smart Algorithm</a> (2024)
+        <a href="https://github.com/TalKehila/WebDocker">C# Application with Docker and CI/CD</a> (2024)
       </h4>
-      <p><em>C++, Python, CMake</em></p>
+      <p><em>.NET Project using Docker and CICD GitHub Actions</em></p>
       <p>
-        Developed a simulator and a unique cleaning algorithm. Wrote unit testing with Gtest and created a user-friendly visualization in Pygame.
+         C# application containerized using Docker. Integrated with GitHub Actions, it provides automated CI/CD workflows for seamless deployment and continuous integration.
       </p>
     </td>
     <td valign="top" width="30%">
-      <img src="https://github.com/user-attachments/assets/72f4e994-b8d8-4f7c-be33-c9343df4d8f0" width="300">
+      <img src="https://github.com/TalKehila/TalKehila/blob/main/docker.png" width="300">
     </td>
   </tr>
 
@@ -80,19 +80,16 @@
   <tr>
     <td valign="top" width="70%">
       <h4>
-        <a href="https://github.com/Koren-Ben-Ezra/Simple-Processor-Simulator">Simple MIPS Processor Implementation</a> (2024)
+     HVAC Control System with NASA Protocol (2025)
       </h4>
-      <p><em>C Programming</em></p>
+      <p><em>Raspberry Pi • MQTT • python  </em></p>
       <p>
-        Simulated a custom MIPS processor procedure.
-      </p>
-      <p>
-        Result: A white circle on a black background, rendered by a custom assembly program on our simulated RISC processor in a 256×256 monochrome display.      
+A control system built on NASA's protocol, connected to a Raspberry Pi controller. The application manages HVAC components such as evaporators and ventilators across multiple rooms, providing centralized and efficient climate control.    
       </p>
     </td>
       <td valign="top" width="30%">
         <p align="center">
-          <img src="https://github.com/user-attachments/assets/7671525b-0679-4655-bb8f-f98adb303946" height="200">
+          <img src="https://github.com/TalKehila/TalKehila/blob/main/h.jpeg" height="200">
         </p>
       </td>
   </tr>
@@ -101,21 +98,23 @@
   
   <tr>
     <td valign="top" width="70%">
-      <h4>Implementation of ML Algorithms (2023)</h4>
-      <p><em>C Programming</em></p>
+      <h4> <a href="https://github.com/TalKehila/Checkers-Game">Checkers Game</a> (2024)</h4>
+      <p><em> React Frontend with C# Backend</em></p>
       <p>
-        Implemented the unsupervised clustering ML algorithms 
-        <a href="https://github.com/Koren-Ben-Ezra/kmeans-algorithm">K-means</a> and 
-        <a href="https://github.com/Koren-Ben-Ezra/symNMF-algorithm">symNMF</a>.
+      A multiplayer checkers game built with a React frontend and a C# backend. The application supports real-time gameplay, move validation, and a responsive user interface for smooth and interactive gaming.
       </p>
     </td>
     <td valign="top" width="30%">
-      <img src="https://github.com/user-attachments/assets/37f4c91e-fe08-4d90-a080-4c9381108e0a" width="300">
+      <img src="https://giphy.com/gifs/scgallery-game-art-checkers-nIIj7PrOqOdqcv2bAG" width="300">
     </td>
   </tr>
 </table>
 
 
+</p>
+
+<p>
+  <br>
 </p>
 
 <p align="right">
