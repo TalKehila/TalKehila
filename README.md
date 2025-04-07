@@ -20,12 +20,86 @@
 * 🔄 Experience with Git workflow and GitHub Actions
 * 🌐 Frontend development using React and Angular
 
+## 🚀 Featured Projects
 
-### Recent Projects:
-* 📰 Developed News Personal Fetcher using C# .NET Core microservices
-* 🔌 Implemented Dapr and RabbitMQ for service communication
-* 🤖 Integrated AI summarization capabilities
-* 🐳 Containerized applications using Docker
+<table>
+  <tr>
+    <td valign="top" width="70%">
+      <h4><a href="https://github.com/TalKehila/News-PeRsonal-Featcher">Personal news fetcher</a></h4>
+      <p><em>.NET Microservices project with dapt and rabbitMQ</em></p>
+      <p>
+       A C# .NET project with three microservices using Dapr and RabbitMQ to deliver personalized news. Users set their preferences,
+        an AI fetches and summarizes relevant news, and the results are sent via email.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/user-attachments/assets/51717a40-d59f-4684-bda3-57af1d9f2894" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%">
+      <h4>
+        <a href="https://github.com/Koren-Ben-Ezra/SalesBot-Doc">Sales Bot – WhatsApp Automation HTTP Server</a> (2025)
+      </h4>
+      <p><em>Python, Selenium, REST API</em></p>
+      <p>
+        Built an automated system for scheduled advertising in WhatsApp groups with remote management, dynamic message control, and user-friendly web interface hosted on Hugging Face.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/user-attachments/assets/339f4cb9-f722-40d8-b832-b1a232e8b71e" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%">
+      <h4>
+        <a href="https://github.com/Koren-Ben-Ezra/Smart-Vacuum-Cleaning-Sim">Vacuum Cleaning Simulator &amp; Smart Algorithm</a> (2024)
+      </h4>
+      <p><em>C++, Python, CMake</em></p>
+      <p>
+        Developed a simulator and a unique cleaning algorithm. Wrote unit testing with Gtest and created a user-friendly visualization in Pygame.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/user-attachments/assets/72f4e994-b8d8-4f7c-be33-c9343df4d8f0" width="300">
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%">
+      <h4>
+        <a href="https://github.com/Koren-Ben-Ezra/Simple-Processor-Simulator">Simple MIPS Processor Implementation</a> (2024)
+      </h4>
+      <p><em>C Programming</em></p>
+      <p>
+        Simulated a custom MIPS processor procedure.
+      </p>
+      <p>
+        Result: A white circle on a black background, rendered by a custom assembly program on our simulated RISC processor in a 256×256 monochrome display.      
+      </p>
+    </td>
+      <td valign="top" width="30%">
+        <p align="center">
+          <img src="https://github.com/user-attachments/assets/7671525b-0679-4655-bb8f-f98adb303946" height="200">
+        </p>
+      </td>
+  </tr>
+  <tr>
+    <td valign="top" width="70%">
+      <h4>Implementation of ML Algorithms (2023)</h4>
+      <p><em>C Programming</em></p>
+      <p>
+        Implemented the unsupervised clustering ML algorithms 
+        <a href="https://github.com/Koren-Ben-Ezra/kmeans-algorithm">K-means</a> and 
+        <a href="https://github.com/Koren-Ben-Ezra/symNMF-algorithm">symNMF</a>.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/user-attachments/assets/37f4c91e-fe08-4d90-a080-4c9381108e0a" width="300">
+    </td>
+  </tr>
+</table>
+
+
 </p>
 
 <p align="right">
