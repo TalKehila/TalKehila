@@ -33,23 +33,32 @@
       </p>
     </td>
     <td valign="top" width="30%">
-      <img src="https://github.com/user-attachments/assets/51717a40-d59f-4684-bda3-57af1d9f2894" width="300">
+      <img src="https://github.com/TalKehila/TalKehila/blob/main/micro.png" width="300">
     </td>
   </tr>
+
+
+
+  
   <tr>
     <td valign="top" width="70%">
       <h4>
-        <a href="https://github.com/Koren-Ben-Ezra/SalesBot-Doc">Sales Bot – WhatsApp Automation HTTP Server</a> (2025)
+       thermostat touch screen ESP32 (2025)
       </h4>
-      <p><em>Python, Selenium, REST API</em></p>
+      <p><em>ESP32 · Thermostat · LVGL . Touchscreen UI </em></p>
       <p>
-        Built an automated system for scheduled advertising in WhatsApp groups with remote management, dynamic message control, and user-friendly web interface hosted on Hugging Face.
+       A smart thermostat built with an ESP32 microcontroller, featuring a touch display using LVGL and GT911 touch controller, written in C/C++. The system allows real-time temperature monitoring and control through a responsive and intuitive user interface.
       </p>
     </td>
     <td valign="top" width="30%">
       <img src="https://github.com/user-attachments/assets/339f4cb9-f722-40d8-b832-b1a232e8b71e" width="300">
     </td>
   </tr>
+
+
+
+
+  
   <tr>
     <td valign="top" width="70%">
       <h4>
@@ -64,6 +73,10 @@
       <img src="https://github.com/user-attachments/assets/72f4e994-b8d8-4f7c-be33-c9343df4d8f0" width="300">
     </td>
   </tr>
+
+
+
+  
   <tr>
     <td valign="top" width="70%">
       <h4>
@@ -83,6 +96,9 @@
         </p>
       </td>
   </tr>
+
+
+  
   <tr>
     <td valign="top" width="70%">
       <h4>Implementation of ML Algorithms (2023)</h4>
