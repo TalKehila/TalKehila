@@ -105,7 +105,7 @@ A control system built on NASA's protocol, connected to a Raspberry Pi controlle
       </p>
     </td>
     <td valign="top" width="30%">
-      <img src="https://giphy.com/gifs/scgallery-game-art-checkers-nIIj7PrOqOdqcv2bAG" width="300">
+      <img src="https://github.com/TalKehila/TalKehila/blob/main/c.png" width="300">
     </td>
   </tr>
 </table>
