@@ -51,7 +51,7 @@
       </p>
     </td>
     <td valign="top" width="30%">
-      <img src="https://github.com/user-attachments/assets/339f4cb9-f722-40d8-b832-b1a232e8b71e" width="300">
+      <img src="https://github.com/TalKehila/TalKehila/blob/main/t.jpeg" width="300">
     </td>
   </tr>
 
