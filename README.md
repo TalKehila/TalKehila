@@ -26,7 +26,7 @@
   <tr>
     <td valign="top" width="70%">
       <h4><a href="https://github.com/TalKehila/News-PeRsonal-Featcher">Personal news fetcher</a></h4>
-      <p><em>.NET Microservices project with dapt and rabbitMQ</em></p>
+      <p><em>.NET Microservices project with dapr and rabbitMQ</em></p>
       <p>
        A C# .NET project with three microservices using Dapr and RabbitMQ to deliver personalized news. Users set their preferences,
         an AI fetches and summarizes relevant news, and the results are sent via email.
