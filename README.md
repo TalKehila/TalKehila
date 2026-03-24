@@ -1,10 +1,10 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3FwZHpza21kcWRvNWpxeDkycHZ2bml2cXF3MGhiaTBqNTljcWJ4aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kgUkCLMu3xhw1T6txv/giphy.webp" alt="coding" width="250" height="200"/>
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRzNnlpcDlrMXF1cmcydDYwbGhndW1iZmVhZ21hNThuOXIzcDJrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="coding" width="250" height="200"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTRzNnlpcDlrMXF1cmcydDYwbGhndW1iZmVhZ21hNThuOXIzcDJrcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.webp" alt="coding" width="328" height="200"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Tal kehila</h1>
-<h3 align="center">A passionate DevOps engineer and Fullstack Developer</h3>
+<h3 align="center">Software & DevOps Engineer</h3>
 
 
 ### Contact Me:
@@ -13,12 +13,18 @@
 
 
 ### Skills & Experience:
-* 💻 Full Stack Developer with expertise in C#, ASP.NET, Python, JavaScript, and TypeScript
-* 🛠 DevOps Engineer skilled in Azure Cloud Services, AWS, Docker, Kubernetes, and CI/CD pipelines
-* 📊 Database proficiency in SQL, NoSQL, and MongoDB
-* 🏗 Strong foundation in Software Architecture, implementing Microservices and Design Patterns
-* 🔄 Experience with Git workflow and GitHub Actions
-* 🌐 Frontend development using React and Angular
+### 💻 Development:
+* Full Stack development with C#, ASP.NET, Python, JavaScript, and TypeScript
+* Frontend development using React and Angular
+* Strong foundation in Software Architecture, Microservices, and scalable system design
+* Experience building IoT systems (ESP32, Raspberry Pi, MQTT) and real-time systems
+
+### 🛠 DevOps & Cloud:
+* Experience with AWS and Azure
+* Docker and CI/CD pipelines
+* Infrastructure as Code (CloudFormation)
+* Monitoring and logging (CloudWatch)
+* Git workflows and GitHub Actions
 
 ## 🚀 Featured Projects
 
@@ -28,7 +34,7 @@
 
   <tr>
     <td valign="top" width="70%">
-      <h4>Refrigeration & Chiller Monitoring System (mobile app and web)  </h4>
+      <h4>Refrigeration & Chiller Monitoring System (mobile app and web) 2026  </h4>
       <p><em>Moblie application for monitoring fridge and chillers </em></p>
       <p>
       A refrigeration and chiller monitoring system that allows adding controllers, adjusting temperature settings, detecting faults, and sending real-time alerts via SMS and email. Includes a live dashboard displaying all system data and status in real time.
@@ -49,7 +55,7 @@
 
   <tr>
     <td valign="top" width="70%">
-      <h4>  AWS multi region cloud application (2025)</h4>
+      <h4>  AWS multi region cloud application (2025-2026)</h4>
       <p><em> AWS </em></p>
       <p>
           <ul>
@@ -106,23 +112,7 @@
 
 
 
-  
-  <tr>
-    <td valign="top" width="70%">
-      <h4>
-        <a href="https://github.com/TalKehila/WebDocker">C# Application with Docker and CI/CD</a> (2024)
-      </h4>
-      <p><em>.NET Project using Docker and CICD GitHub Actions</em></p>
-      <p>
-         C# application containerized using Docker. Integrated with GitHub Actions, it provides automated CI/CD workflows for seamless deployment and continuous integration.
-      </p>
-    </td>
-    <td valign="top" width="30%">
-      <img src="https://github.com/TalKehila/TalKehila/blob/main/docker.png" width="300">
-    </td>
-  </tr>
-
-
+ 
 
   
   <tr>
@@ -140,6 +130,22 @@ A control system built on NASA's protocol, connected to a Raspberry Pi controlle
           <img src="https://github.com/TalKehila/TalKehila/blob/main/h.jpeg" height="200">
         </p>
       </td>
+  </tr>
+
+ 
+  <tr>
+    <td valign="top" width="70%">
+      <h4>
+        <a href="https://github.com/TalKehila/WebDocker">C# Application with Docker and CI/CD</a> (2025)
+      </h4>
+      <p><em>.NET Project using Docker and CICD GitHub Actions</em></p>
+      <p>
+         C# application containerized using Docker. Integrated with GitHub Actions, it provides automated CI/CD workflows for seamless deployment and continuous integration.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/TalKehila/TalKehila/blob/main/docker.png" width="300">
+    </td>
   </tr>
 
 
