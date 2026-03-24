@@ -24,6 +24,29 @@
 
 <table>
 
+
+
+  <tr>
+    <td valign="top" width="70%">
+      <h4>Refrigeration & Chiller Monitoring System (mobile app and web)  </h4>
+      <p><em>Moblie application for monitoring fridge and chillers </em></p>
+      <p>
+      A refrigeration and chiller monitoring system that allows adding controllers, adjusting temperature settings, detecting faults, and sending real-time alerts via SMS and email. Includes a live dashboard displaying all system data and status in real time.
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/TalKehila/TalKehila/blob/main/f.png" width="300">
+    </td>
+  </tr>
+
+
+
+
+
+
+
+
+
   <tr>
     <td valign="top" width="70%">
       <h4>  AWS multi region cloud application (2025)</h4>
