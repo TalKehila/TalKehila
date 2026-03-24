@@ -98,16 +98,17 @@ A control system built on NASA's protocol, connected to a Raspberry Pi controlle
   
   <tr>
     <td valign="top" width="70%">
-      <h4> <a href="https://github.com/TalKehila/Checkers-Game">Checkers Game</a> (2024)</h4>
-      <p><em> React Frontend with C# Backend</em></p>
+      <h4>  AWS multi region cloud application (2025)</h4>
+      <p><em> AWS </em></p>
       <p>
-      A multiplayer checkers game built with a React frontend and a C# backend. The application supports real-time gameplay, move validation, and a responsive user interface for smooth and interactive gaming.
+Built a multi-region AWS architecture where each region runs its own game, with failover support that allows switching traffic between regions in case of failure, using EC2 and Fargate.
       </p>
     </td>
     <td valign="top" width="30%">
-      <img src="https://github.com/TalKehila/TalKehila/blob/main/c.png" width="300">
+      <img src="https://github.com/TalKehila/TalKehila/blob/main/SA-Desgin.jpg" width="300">
     </td>
   </tr>
+  
 </table>
 
 
