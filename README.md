@@ -23,6 +23,31 @@
 ## 🚀 Featured Projects
 
 <table>
+
+  <tr>
+    <td valign="top" width="70%">
+      <h4>  AWS multi region cloud application (2025)</h4>
+      <p><em> AWS </em></p>
+      <p>
+          <ul>
+  <li>Built a multi-region AWS architecture where each region runs its own game, with failover support that allows switching traffic between regions in case of failure, using EC2 and Fargate.</li>
+  <li>Built the infrastructure, including VPC and networking, using CloudFormation with a focus on high availability and multi-zone setup.</li>
+  <li>Set up users, roles and permissions using AWS Organizations, SSO and IAM, following least privilege.</li>
+  <li>Used S3, databases and NFS for system storage, with versioning and immutability for high resiliency.</li>
+  <li>Set up monitoring and alerts using CloudWatch and SNS to track system health.</li>
+</ul>
+      </p>
+    </td>
+    <td valign="top" width="30%">
+      <img src="https://github.com/TalKehila/TalKehila/blob/main/SA-Design.jpg" width="300">
+    </td>
+  </tr>
+
+
+
+
+
+  
   <tr>
     <td valign="top" width="70%">
       <h4><a href="https://github.com/TalKehila/News-PeRsonal-Featcher">Personal news fetcher</a></h4>
@@ -96,22 +121,7 @@ A control system built on NASA's protocol, connected to a Raspberry Pi controlle
 
 
   
-  <tr>
-    <td valign="top" width="70%">
-      <h4>  AWS multi region cloud application (2025)</h4>
-      <p><em> AWS </em></p>
-      <p>
-          • Built a multi-region AWS architecture where each region runs its own game, with failover support that allows switching traffic between                   regions in case of failure, using EC2 and Fargate.
-          •  Built the infrastructure, including VPC and networking, using CloudFormation with a focus on high availability and multi-zone setup.
-          •  Set up users, roles and permissions using AWS Organizations, SSO and IAM, following least privilege.
-          • Used S3, databases and NFS for system storage, with versioning and immutability for high resiliency.
-          •  Set up monitoring and alerts using CloudWatch and SNS to track system health.
-      </p>
-    </td>
-    <td valign="top" width="30%">
-      <img src="https://github.com/TalKehila/TalKehila/blob/main/SA-Design.jpg" width="300">
-    </td>
-  </tr>
+
   
 </table>
 
