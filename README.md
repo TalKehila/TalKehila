@@ -10,6 +10,8 @@
 ### Contact Me:
 - 📫 Email: **tal.kehila10@gmail.com**
 - 🔗 LinkedIn: **www.linkedin.com/in/tal-kehila/**
+- 🔗 Portfolio: **[www.linkedin.com/in/tal-kehila/](https://talkehila.github.io/Portfolio/)**
+
 
 
 ### Skills & Experience:
